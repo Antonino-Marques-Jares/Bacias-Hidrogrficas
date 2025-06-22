@@ -20,4 +20,4 @@ Programa Python gera Mapa de dados de Bacias Hidrográficas com base nos arquivo
 
 **Projeto no GitHub:** [Bacias Hidrográficas](https://github.com/Antonino-Marques-Jares/Bacias-Hidrogrficas/tree/main)
 
-**Página Publicação:** [Mapa Bacias Hidrográfica](https://www.areadetrampo.com.br/mapa-bacias-hidrogaficas/)
+**Página Publicação:** [Mapa Bacias Hidrográfica](https://www.areadetrampo.com.br/mapa-de-bacias-hidrograficas/)
