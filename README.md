@@ -4,7 +4,7 @@
 Programa Python gera Mapa de dados de Bacias Hidrográficas com base nos arquivos GEOJSON da Agência Nacional de Águas e Saneamento Básico, diponível em Dados Abertos do Governo Federal.
 
 ## Fonte:
-[![Dados Abertos](caminhao_gas.jpg)](https://dados.gov.br/home)
+[![Dados Abertos](govbr.webp)](https://dados.gov.br/home)
 
 
 ### Passo 1 - Baixe os arquivos GEOJSON: 
